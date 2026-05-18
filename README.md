@@ -8,7 +8,7 @@
 
 ဤပရောဂျက်၏ အသေးစိတ်ဇာတ်လမ်းများ၊ ဇာတ်ကောင် (Spheres) Profile များနှင့် စည်းမျဉ်းများကို အောက်ပါ Official Wiki လင့်ခ်တွင် ဝင်ရောက်ဖတ်ရှုနိုင်သည့်အပြင် မိမိကိုယ်တိုင်လည်း ဝင်ရောက်တည်းဖြတ်နိုင်ပါသည်။
 
-👉 **[CountryBalls Life Official Wiki](YOUR_GITHUB_WIKI_LINK_HERE)**
+👉 **[CountryBalls Life Official Wiki](https://github.com/ien-info/countryballslife/wiki)**
 
 ---
 
